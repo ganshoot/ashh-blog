@@ -1,0 +1,10 @@
+/*
+Theme Name:     Samba Child Theme
+Description:    Child theme for Samba.
+Version:        1.3
+Author:         Pirenko
+Author URI:     http://www.munto.net/
+Template:       samba
+*/
+
+@import url("../samba/style.css");
